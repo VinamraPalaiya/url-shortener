@@ -65,7 +65,7 @@ To start using the service, follow the steps below :
 
 1. Download the **_URL Shortener_** repository and switch to the 'src' folder as the working directory.
 
-2. Update line **_12_** of 'main.py' with MYSQL user name and password.
+2. Update line **_12_** and **_26_** of 'main.py' with MYSQL user name and password.
 
 3. Run the 'main.py' python file as follows:
 ```
